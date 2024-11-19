@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anyasauce/nightshadepalette.git/static/css/main.9c7d72af.css",
-    "main.js": "/anyasauce/nightshadepalette.git/static/js/main.aff994d4.js",
-    "static/js/453.21ef10c4.chunk.js": "/anyasauce/nightshadepalette.git/static/js/453.21ef10c4.chunk.js",
-    "index.html": "/anyasauce/nightshadepalette.git/index.html",
-    "main.9c7d72af.css.map": "/anyasauce/nightshadepalette.git/static/css/main.9c7d72af.css.map",
-    "main.aff994d4.js.map": "/anyasauce/nightshadepalette.git/static/js/main.aff994d4.js.map",
-    "453.21ef10c4.chunk.js.map": "/anyasauce/nightshadepalette.git/static/js/453.21ef10c4.chunk.js.map"
+    "main.css": "/nightshadepalette/static/css/main.9c7d72af.css",
+    "main.js": "/nightshadepalette/static/js/main.b6885ba1.js",
+    "static/js/453.21ef10c4.chunk.js": "/nightshadepalette/static/js/453.21ef10c4.chunk.js",
+    "index.html": "/nightshadepalette/index.html",
+    "main.9c7d72af.css.map": "/nightshadepalette/static/css/main.9c7d72af.css.map",
+    "main.b6885ba1.js.map": "/nightshadepalette/static/js/main.b6885ba1.js.map",
+    "453.21ef10c4.chunk.js.map": "/nightshadepalette/static/js/453.21ef10c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c7d72af.css",
-    "static/js/main.aff994d4.js"
+    "static/js/main.b6885ba1.js"
   ]
 }
