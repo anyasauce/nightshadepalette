@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anyasauce/nightshadepalette.git/static/css/main.9c7d72af.css",
-    "main.js": "/anyasauce/nightshadepalette.git/static/js/main.37960078.js",
+    "main.js": "/anyasauce/nightshadepalette.git/static/js/main.08044b7e.js",
     "static/js/453.21ef10c4.chunk.js": "/anyasauce/nightshadepalette.git/static/js/453.21ef10c4.chunk.js",
     "index.html": "/anyasauce/nightshadepalette.git/index.html",
     "main.9c7d72af.css.map": "/anyasauce/nightshadepalette.git/static/css/main.9c7d72af.css.map",
-    "main.37960078.js.map": "/anyasauce/nightshadepalette.git/static/js/main.37960078.js.map",
+    "main.08044b7e.js.map": "/anyasauce/nightshadepalette.git/static/js/main.08044b7e.js.map",
     "453.21ef10c4.chunk.js.map": "/anyasauce/nightshadepalette.git/static/js/453.21ef10c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c7d72af.css",
-    "static/js/main.37960078.js"
+    "static/js/main.08044b7e.js"
   ]
 }
